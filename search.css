@@ -1,0 +1,363 @@
+.loginbar{
+    background-color: rgb(214,65, 65);
+  
+top: 15px;
+left: 102px;
+width: 100%;
+height: 60px;
+
+opacity: 1;
+}
+.main{
+    position: absolute;
+    left: 100px;
+    
+}
+.logo{
+    position: absolute;
+    left: 110px;
+    top: 10px;
+    background-color: white;
+    text-align: center;
+    border-radius: 50px;
+    height: 40px;
+    width: 40px;
+    
+    
+}
+.elogo{
+    position: absolute;
+    left: 9px;
+    bottom: 0.5px;
+    font-family:sans-serif;
+    font-size: 25px;
+    
+letter-spacing: 0px;
+    color: #EB2929;
+    opacity: 1;
+}
+.login{
+    position: absolute;
+    top: 10px;
+    right:70px;
+    display: inline-block;
+   
+
+}
+.btn1{
+  margin-right:20px;
+
+/* UI Properties */
+text-align: left;
+font-family:sans-serif;
+font-size: 16px;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+background-color: Transparent;
+background-repeat:no-repeat;
+border: none;
+
+}
+.btn2{
+
+text-align: left;
+font-family:sans-serif;
+font-size: 16px;
+letter-spacing: 0px;
+color: #FFFFFF;
+/* UI Properties */
+
+border-radius: 3px;
+opacity: 1;
+background-color: Transparent;
+background-repeat:no-repeat;
+padding-top: 5px;
+padding-right: 12px;
+padding-bottom: 5px;
+padding-left: 12px;
+border: 1px solid rgb(252, 255, 255, 0.8);
+
+}
+.heading {
+    
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.filter-options {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    min-width: 250px;
+    height: 525px;
+}
+
+.filter-heading {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    padding-top: 20px;
+}
+
+.Select-Location {
+    height: 20px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 30px;
+}
+
+.Rectangle-2236 {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: solid 1px #8c96ab;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+
+.Cuisine {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-top: 12px;
+}
+
+.checkbox-items {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+}
+
+.Item {
+    width: 150%;
+    height: 220px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-bottom: 35px;
+    margin-left: 70px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 35px;
+    margin-left: 25%;
+}
+
+.rest-name {
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.rest-location {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+
+.rest-address {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.Bakery {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+}
+
+.big {
+    display: inline-block;
+    width: 68%;
+}
+
+.vertical {
+    vertical-align: top;
+}
+
+.small {
+    display: inline-block;
+    width: 28%;
+}
+
+.big-item {
+    display: inline-block;
+    width: 68%;
+}
+
+.small-item {
+    display: inline-block;
+    width: 28%;
+}
+
+.margin-left {
+    margin-left: 7%
+}
+
+.pagination {
+    display: inline-block;
+    margin-left: 260px;
+    margin-bottom: 100px;
+
+}
+
+.pagination a {
+    color: gray;
+    padding: 5px 10px;
+    text-decoration: none;
+    margin: 2px;
+ 
+/* UI Properties */
+background: #FFFFFF ;
+border: 1px solid #8C96AB;
+border-radius: 7px;
+opacity: 1;
+}
+#first{
+    background-color: grey;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .Item {
+        width: 160%;
+        height: 200px;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color: #ffffff;
+        margin-bottom: 15px;
+    }
+    .filter-options {
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+        background-color: #ffffff;
+        padding-left: 30px;
+        margin-bottom: 10px;
+        min-width: 450px;
+    }
+    .big {
+        display: block;
+        width: 68%;
+    }
+    .small {
+        display: block;
+        width: 28%;
+    }
+    .big-item {
+        display: inline-block;
+        width: 68%;
+    }
+    .small-item {
+        display: inline-block;
+        width: 28%;
+    }
+    .rest-name {
+        font-family: sans-serif;
+        font-size: 30px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.53;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        padding-left: 35px;
+    }
+    .rest-location {
+        font-family:sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: left;
+        color: #192f60;
+        padding-left: 35px;
+    }
+    .rest-address {
+        font-family: sans-serif;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.88;
+        letter-spacing: normal;
+        text-align: left;
+        color: #636f88;
+        padding-left: 35px;
+    }
+    .pagination {
+        display: inline-block;
+        width: 380px;
+        margin-left: 50px;
+    }
+}
